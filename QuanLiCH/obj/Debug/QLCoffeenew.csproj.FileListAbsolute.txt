@@ -1,0 +1,843 @@
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.exe.config
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.exe
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Azure.Core.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Azure.Identity.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.Design.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Buffers.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Memory.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Security.AccessControl.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Permissions.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Azure.Core.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Azure.Identity.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Buffers.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Memory.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Permissions.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmAccount.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmBill.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmCategory.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmFood.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fAccoutProfile1.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fInfoApp.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fLogin.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.frmAdmin.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fTableManager.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Properties.Resources.resources
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.CopyComplete
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.exe
+C:\Users\HP\Downloads\QuanLiCH\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.exe.config
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.exe
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Azure.Core.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Azure.Identity.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\FontAwesome.Sharp.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.Design.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.Fonts.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Newtonsoft.Json.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Buffers.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Memory.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Numerics.Vectors.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Security.AccessControl.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Permissions.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Principal.Windows.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Encodings.Web.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Json.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.ValueTuple.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Azure.Core.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Azure.Identity.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\Newtonsoft.Json.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Buffers.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Memory.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Numerics.Vectors.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Security.AccessControl.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Permissions.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Principal.Windows.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Encodings.Web.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Json.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\System.ValueTuple.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.AssemblyReference.cache
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmAccount.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmBill.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmCategory.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmFood.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fAccoutProfile1.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fInfoApp.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fLogin.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.frmAdmin.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fTableManager.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Properties.Resources.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.GenerateResource.cache
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.CoreCompileInputs.cache
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.exe
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiCHCofee\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.exe.config
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.exe
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Azure.Core.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Azure.Identity.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\FontAwesome.Sharp.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.Design.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.Fonts.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Newtonsoft.Json.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Buffers.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Memory.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Numerics.Vectors.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.AccessControl.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Permissions.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Principal.Windows.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Encodings.Web.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Json.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.ValueTuple.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Azure.Core.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Azure.Identity.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\Newtonsoft.Json.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Buffers.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Memory.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Numerics.Vectors.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.AccessControl.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Permissions.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Principal.Windows.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Encodings.Web.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Json.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\System.ValueTuple.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.AssemblyReference.cache
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.SuggestedBindingRedirects.cache
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmAccount.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmBill.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmCategory.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmFood.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fAccoutProfile1.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fLogin.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.frmAdmin.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fTableManager.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Properties.Resources.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.GenerateResource.cache
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.CoreCompileInputs.cache
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.CopyComplete
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.exe
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.exe.config
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.exe
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\QuanLiCH.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Azure.Core.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Azure.Identity.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\FontAwesome.Sharp.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.Design.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\MetroFramework.Fonts.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Newtonsoft.Json.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Buffers.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Memory.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Numerics.Vectors.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.AccessControl.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Permissions.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Principal.Windows.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Encodings.Web.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Json.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.ValueTuple.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Azure.Core.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Azure.Identity.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\Newtonsoft.Json.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Buffers.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Memory.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Numerics.Vectors.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.AccessControl.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Permissions.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Security.Principal.Windows.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Encodings.Web.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Text.Json.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\System.ValueTuple.xml
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.AssemblyReference.cache
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmAccount.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmBill.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmCategory.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmFood.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fAccoutProfile1.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fLogin.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.frmAdmin.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.fTableManager.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.Properties.Resources.resources
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.GenerateResource.cache
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QLCoffeenew.csproj.CoreCompileInputs.cache
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.exe
+E:\StudyIT\ĐỒ ÁN CƠ SỞ CNTT\QuanLiKho Clone Github\QuanLiCH\QuanLiCH\obj\Debug\QuanLiCH.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\QuanLiCH.exe.config
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\QuanLiCH.exe
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\QuanLiCH.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Azure.Core.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Azure.Identity.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\FontAwesome.Sharp.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\MetroFramework.Design.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\MetroFramework.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\MetroFramework.Fonts.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Identity.Client.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Newtonsoft.Json.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Buffers.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Memory.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Numerics.Vectors.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Security.AccessControl.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Security.Permissions.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Security.Principal.Windows.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Text.Encodings.Web.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Text.Json.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.ValueTuple.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Azure.Core.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Azure.Identity.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Identity.Client.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\Newtonsoft.Json.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Buffers.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Memory.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Numerics.Vectors.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Security.AccessControl.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Security.Permissions.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Security.Principal.Windows.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Text.Encodings.Web.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Text.Json.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\System.ValueTuple.xml
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QLCoffeenew.csproj.AssemblyReference.cache
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QLCoffeenew.csproj.SuggestedBindingRedirects.cache
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmAccount.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmBill.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmCategory.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.Admin.frmFood.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.fAccoutProfile1.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.fLogin.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.frmAdmin.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.fTableManager.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.Properties.Resources.resources
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QLCoffeenew.csproj.GenerateResource.cache
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QLCoffeenew.csproj.CoreCompileInputs.cache
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QLCoffeenew.csproj.CopyComplete
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.exe
+C:\Học Tập\Do An Co So\Final Github\QuanLiCH\obj\Debug\QuanLiCH.pdb
